@@ -15,7 +15,7 @@
       "videoSrc": "/media/case-01.mp4",
       "posterSrc": "/media/case-01-poster.png",
       "presence": {
-        "sequenceSrc": "/media/karic-dialogue-v2.webm",
+        "sequenceSrc": "/media/karic-dialogue-v3.webm",
         "idleSrc": "/media/karic-idle-v2.webm",
         "replyStartsAt": 6.8,
         "replyEndsAt": 13.56
@@ -40,7 +40,7 @@
         "values"
       ],
       "presence": {
-        "sequenceSrc": "/media/karic-dialogue-v2.webm",
+        "sequenceSrc": "/media/karic-dialogue-v3.webm",
         "idleSrc": "/media/karic-idle-v2.webm",
         "replyStartsAt": 14.12
       }
