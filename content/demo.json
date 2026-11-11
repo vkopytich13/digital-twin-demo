@@ -127,11 +127,11 @@
     }
   ],
   "avatar": {
-    "version": "v7",
+    "version": "v8",
     "poster": "/media/case-01-poster.png",
     "silent": {
-      "webm": "/media/karic-idles-v7.webm",
-      "hevc": "/media/karic-idles-v7.mov"
+      "webm": "/media/karic-idles-v8.webm",
+      "hevc": "/media/karic-idles-v8.mov"
     },
     "idle": {
       "start": 0,
@@ -144,171 +144,823 @@
     "fps": 25,
     "bridgeFrames": 5,
     "bridgeStride": 2,
-    "bridgeGroupFrames": 25,
+    "bridgeGroupFrames": 5,
     "bridges": [
       {
-        "webm": "/media/karic-motion-v5-01.webm",
-        "hevc": "/media/karic-motion-v6-01.mov"
+        "webm": "/media/karic-bridge-v8-01.webm",
+        "hevc": "/media/karic-bridge-v8-01.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-02.webm",
-        "hevc": "/media/karic-motion-v6-02.mov"
+        "webm": "/media/karic-bridge-v8-02.webm",
+        "hevc": "/media/karic-bridge-v8-02.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-03.webm",
-        "hevc": "/media/karic-motion-v6-03.mov"
+        "webm": "/media/karic-bridge-v8-03.webm",
+        "hevc": "/media/karic-bridge-v8-03.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-04.webm",
-        "hevc": "/media/karic-motion-v6-04.mov"
+        "webm": "/media/karic-bridge-v8-04.webm",
+        "hevc": "/media/karic-bridge-v8-04.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-05.webm",
-        "hevc": "/media/karic-motion-v6-05.mov"
+        "webm": "/media/karic-bridge-v8-05.webm",
+        "hevc": "/media/karic-bridge-v8-05.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-06.webm",
-        "hevc": "/media/karic-motion-v6-06.mov"
+        "webm": "/media/karic-bridge-v8-06.webm",
+        "hevc": "/media/karic-bridge-v8-06.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-07.webm",
-        "hevc": "/media/karic-motion-v6-07.mov"
+        "webm": "/media/karic-bridge-v8-07.webm",
+        "hevc": "/media/karic-bridge-v8-07.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-08.webm",
-        "hevc": "/media/karic-motion-v6-08.mov"
+        "webm": "/media/karic-bridge-v8-08.webm",
+        "hevc": "/media/karic-bridge-v8-08.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-09.webm",
-        "hevc": "/media/karic-motion-v6-09.mov"
+        "webm": "/media/karic-bridge-v8-09.webm",
+        "hevc": "/media/karic-bridge-v8-09.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-10.webm",
-        "hevc": "/media/karic-motion-v6-10.mov"
+        "webm": "/media/karic-bridge-v8-10.webm",
+        "hevc": "/media/karic-bridge-v8-10.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-11.webm",
-        "hevc": "/media/karic-motion-v6-11.mov"
+        "webm": "/media/karic-bridge-v8-11.webm",
+        "hevc": "/media/karic-bridge-v8-11.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-12.webm",
-        "hevc": "/media/karic-motion-v6-12.mov"
+        "webm": "/media/karic-bridge-v8-12.webm",
+        "hevc": "/media/karic-bridge-v8-12.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-13.webm",
-        "hevc": "/media/karic-motion-v6-13.mov"
+        "webm": "/media/karic-bridge-v8-13.webm",
+        "hevc": "/media/karic-bridge-v8-13.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-14.webm",
-        "hevc": "/media/karic-motion-v6-14.mov"
+        "webm": "/media/karic-bridge-v8-14.webm",
+        "hevc": "/media/karic-bridge-v8-14.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-15.webm",
-        "hevc": "/media/karic-motion-v6-15.mov"
+        "webm": "/media/karic-bridge-v8-15.webm",
+        "hevc": "/media/karic-bridge-v8-15.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-16.webm",
-        "hevc": "/media/karic-motion-v6-16.mov"
+        "webm": "/media/karic-bridge-v8-16.webm",
+        "hevc": "/media/karic-bridge-v8-16.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-17.webm",
-        "hevc": "/media/karic-motion-v6-17.mov"
+        "webm": "/media/karic-bridge-v8-17.webm",
+        "hevc": "/media/karic-bridge-v8-17.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-18.webm",
-        "hevc": "/media/karic-motion-v6-18.mov"
+        "webm": "/media/karic-bridge-v8-18.webm",
+        "hevc": "/media/karic-bridge-v8-18.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-19.webm",
-        "hevc": "/media/karic-motion-v6-19.mov"
+        "webm": "/media/karic-bridge-v8-19.webm",
+        "hevc": "/media/karic-bridge-v8-19.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-20.webm",
-        "hevc": "/media/karic-motion-v6-20.mov"
+        "webm": "/media/karic-bridge-v8-20.webm",
+        "hevc": "/media/karic-bridge-v8-20.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-21.webm",
-        "hevc": "/media/karic-motion-v6-21.mov"
+        "webm": "/media/karic-bridge-v8-21.webm",
+        "hevc": "/media/karic-bridge-v8-21.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-22.webm",
-        "hevc": "/media/karic-motion-v6-22.mov"
+        "webm": "/media/karic-bridge-v8-22.webm",
+        "hevc": "/media/karic-bridge-v8-22.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-23.webm",
-        "hevc": "/media/karic-motion-v6-23.mov"
+        "webm": "/media/karic-bridge-v8-23.webm",
+        "hevc": "/media/karic-bridge-v8-23.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-24.webm",
-        "hevc": "/media/karic-motion-v6-24.mov"
+        "webm": "/media/karic-bridge-v8-24.webm",
+        "hevc": "/media/karic-bridge-v8-24.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-25.webm",
-        "hevc": "/media/karic-motion-v6-25.mov"
+        "webm": "/media/karic-bridge-v8-25.webm",
+        "hevc": "/media/karic-bridge-v8-25.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-26.webm",
-        "hevc": "/media/karic-motion-v6-26.mov"
+        "webm": "/media/karic-bridge-v8-26.webm",
+        "hevc": "/media/karic-bridge-v8-26.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-27.webm",
-        "hevc": "/media/karic-motion-v6-27.mov"
+        "webm": "/media/karic-bridge-v8-27.webm",
+        "hevc": "/media/karic-bridge-v8-27.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-28.webm",
-        "hevc": "/media/karic-motion-v6-28.mov"
+        "webm": "/media/karic-bridge-v8-28.webm",
+        "hevc": "/media/karic-bridge-v8-28.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-29.webm",
-        "hevc": "/media/karic-motion-v6-29.mov"
+        "webm": "/media/karic-bridge-v8-29.webm",
+        "hevc": "/media/karic-bridge-v8-29.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-30.webm",
-        "hevc": "/media/karic-motion-v6-30.mov"
+        "webm": "/media/karic-bridge-v8-30.webm",
+        "hevc": "/media/karic-bridge-v8-30.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-31.webm",
-        "hevc": "/media/karic-motion-v6-31.mov"
+        "webm": "/media/karic-bridge-v8-31.webm",
+        "hevc": "/media/karic-bridge-v8-31.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-32.webm",
-        "hevc": "/media/karic-motion-v6-32.mov"
+        "webm": "/media/karic-bridge-v8-32.webm",
+        "hevc": "/media/karic-bridge-v8-32.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-33.webm",
-        "hevc": "/media/karic-motion-v6-33.mov"
+        "webm": "/media/karic-bridge-v8-33.webm",
+        "hevc": "/media/karic-bridge-v8-33.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-34.webm",
-        "hevc": "/media/karic-motion-v6-34.mov"
+        "webm": "/media/karic-bridge-v8-34.webm",
+        "hevc": "/media/karic-bridge-v8-34.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-35.webm",
-        "hevc": "/media/karic-motion-v6-35.mov"
+        "webm": "/media/karic-bridge-v8-35.webm",
+        "hevc": "/media/karic-bridge-v8-35.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-36.webm",
-        "hevc": "/media/karic-motion-v6-36.mov"
+        "webm": "/media/karic-bridge-v8-36.webm",
+        "hevc": "/media/karic-bridge-v8-36.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-37.webm",
-        "hevc": "/media/karic-motion-v6-37.mov"
+        "webm": "/media/karic-bridge-v8-37.webm",
+        "hevc": "/media/karic-bridge-v8-37.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-38.webm",
-        "hevc": "/media/karic-motion-v6-38.mov"
+        "webm": "/media/karic-bridge-v8-38.webm",
+        "hevc": "/media/karic-bridge-v8-38.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-39.webm",
-        "hevc": "/media/karic-motion-v6-39.mov"
+        "webm": "/media/karic-bridge-v8-39.webm",
+        "hevc": "/media/karic-bridge-v8-39.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-40.webm",
-        "hevc": "/media/karic-motion-v6-40.mov"
+        "webm": "/media/karic-bridge-v8-40.webm",
+        "hevc": "/media/karic-bridge-v8-40.mov"
       },
       {
-        "webm": "/media/karic-motion-v5-41.webm",
-        "hevc": "/media/karic-motion-v6-41.mov"
+        "webm": "/media/karic-bridge-v8-41.webm",
+        "hevc": "/media/karic-bridge-v8-41.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-42.webm",
+        "hevc": "/media/karic-bridge-v8-42.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-43.webm",
+        "hevc": "/media/karic-bridge-v8-43.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-44.webm",
+        "hevc": "/media/karic-bridge-v8-44.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-45.webm",
+        "hevc": "/media/karic-bridge-v8-45.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-46.webm",
+        "hevc": "/media/karic-bridge-v8-46.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-47.webm",
+        "hevc": "/media/karic-bridge-v8-47.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-48.webm",
+        "hevc": "/media/karic-bridge-v8-48.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-49.webm",
+        "hevc": "/media/karic-bridge-v8-49.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-50.webm",
+        "hevc": "/media/karic-bridge-v8-50.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-51.webm",
+        "hevc": "/media/karic-bridge-v8-51.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-52.webm",
+        "hevc": "/media/karic-bridge-v8-52.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-53.webm",
+        "hevc": "/media/karic-bridge-v8-53.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-54.webm",
+        "hevc": "/media/karic-bridge-v8-54.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-55.webm",
+        "hevc": "/media/karic-bridge-v8-55.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-56.webm",
+        "hevc": "/media/karic-bridge-v8-56.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-57.webm",
+        "hevc": "/media/karic-bridge-v8-57.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-58.webm",
+        "hevc": "/media/karic-bridge-v8-58.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-59.webm",
+        "hevc": "/media/karic-bridge-v8-59.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-60.webm",
+        "hevc": "/media/karic-bridge-v8-60.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-61.webm",
+        "hevc": "/media/karic-bridge-v8-61.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-62.webm",
+        "hevc": "/media/karic-bridge-v8-62.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-63.webm",
+        "hevc": "/media/karic-bridge-v8-63.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-64.webm",
+        "hevc": "/media/karic-bridge-v8-64.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-65.webm",
+        "hevc": "/media/karic-bridge-v8-65.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-66.webm",
+        "hevc": "/media/karic-bridge-v8-66.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-67.webm",
+        "hevc": "/media/karic-bridge-v8-67.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-68.webm",
+        "hevc": "/media/karic-bridge-v8-68.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-69.webm",
+        "hevc": "/media/karic-bridge-v8-69.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-70.webm",
+        "hevc": "/media/karic-bridge-v8-70.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-71.webm",
+        "hevc": "/media/karic-bridge-v8-71.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-72.webm",
+        "hevc": "/media/karic-bridge-v8-72.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-73.webm",
+        "hevc": "/media/karic-bridge-v8-73.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-74.webm",
+        "hevc": "/media/karic-bridge-v8-74.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-75.webm",
+        "hevc": "/media/karic-bridge-v8-75.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-76.webm",
+        "hevc": "/media/karic-bridge-v8-76.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-77.webm",
+        "hevc": "/media/karic-bridge-v8-77.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-78.webm",
+        "hevc": "/media/karic-bridge-v8-78.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-79.webm",
+        "hevc": "/media/karic-bridge-v8-79.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-80.webm",
+        "hevc": "/media/karic-bridge-v8-80.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-81.webm",
+        "hevc": "/media/karic-bridge-v8-81.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-82.webm",
+        "hevc": "/media/karic-bridge-v8-82.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-83.webm",
+        "hevc": "/media/karic-bridge-v8-83.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-84.webm",
+        "hevc": "/media/karic-bridge-v8-84.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-85.webm",
+        "hevc": "/media/karic-bridge-v8-85.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-86.webm",
+        "hevc": "/media/karic-bridge-v8-86.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-87.webm",
+        "hevc": "/media/karic-bridge-v8-87.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-88.webm",
+        "hevc": "/media/karic-bridge-v8-88.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-89.webm",
+        "hevc": "/media/karic-bridge-v8-89.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-90.webm",
+        "hevc": "/media/karic-bridge-v8-90.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-91.webm",
+        "hevc": "/media/karic-bridge-v8-91.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-92.webm",
+        "hevc": "/media/karic-bridge-v8-92.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-93.webm",
+        "hevc": "/media/karic-bridge-v8-93.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-94.webm",
+        "hevc": "/media/karic-bridge-v8-94.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-95.webm",
+        "hevc": "/media/karic-bridge-v8-95.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-96.webm",
+        "hevc": "/media/karic-bridge-v8-96.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-97.webm",
+        "hevc": "/media/karic-bridge-v8-97.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-98.webm",
+        "hevc": "/media/karic-bridge-v8-98.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-99.webm",
+        "hevc": "/media/karic-bridge-v8-99.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-100.webm",
+        "hevc": "/media/karic-bridge-v8-100.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-101.webm",
+        "hevc": "/media/karic-bridge-v8-101.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-102.webm",
+        "hevc": "/media/karic-bridge-v8-102.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-103.webm",
+        "hevc": "/media/karic-bridge-v8-103.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-104.webm",
+        "hevc": "/media/karic-bridge-v8-104.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-105.webm",
+        "hevc": "/media/karic-bridge-v8-105.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-106.webm",
+        "hevc": "/media/karic-bridge-v8-106.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-107.webm",
+        "hevc": "/media/karic-bridge-v8-107.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-108.webm",
+        "hevc": "/media/karic-bridge-v8-108.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-109.webm",
+        "hevc": "/media/karic-bridge-v8-109.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-110.webm",
+        "hevc": "/media/karic-bridge-v8-110.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-111.webm",
+        "hevc": "/media/karic-bridge-v8-111.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-112.webm",
+        "hevc": "/media/karic-bridge-v8-112.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-113.webm",
+        "hevc": "/media/karic-bridge-v8-113.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-114.webm",
+        "hevc": "/media/karic-bridge-v8-114.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-115.webm",
+        "hevc": "/media/karic-bridge-v8-115.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-116.webm",
+        "hevc": "/media/karic-bridge-v8-116.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-117.webm",
+        "hevc": "/media/karic-bridge-v8-117.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-118.webm",
+        "hevc": "/media/karic-bridge-v8-118.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-119.webm",
+        "hevc": "/media/karic-bridge-v8-119.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-120.webm",
+        "hevc": "/media/karic-bridge-v8-120.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-121.webm",
+        "hevc": "/media/karic-bridge-v8-121.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-122.webm",
+        "hevc": "/media/karic-bridge-v8-122.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-123.webm",
+        "hevc": "/media/karic-bridge-v8-123.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-124.webm",
+        "hevc": "/media/karic-bridge-v8-124.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-125.webm",
+        "hevc": "/media/karic-bridge-v8-125.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-126.webm",
+        "hevc": "/media/karic-bridge-v8-126.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-127.webm",
+        "hevc": "/media/karic-bridge-v8-127.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-128.webm",
+        "hevc": "/media/karic-bridge-v8-128.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-129.webm",
+        "hevc": "/media/karic-bridge-v8-129.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-130.webm",
+        "hevc": "/media/karic-bridge-v8-130.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-131.webm",
+        "hevc": "/media/karic-bridge-v8-131.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-132.webm",
+        "hevc": "/media/karic-bridge-v8-132.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-133.webm",
+        "hevc": "/media/karic-bridge-v8-133.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-134.webm",
+        "hevc": "/media/karic-bridge-v8-134.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-135.webm",
+        "hevc": "/media/karic-bridge-v8-135.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-136.webm",
+        "hevc": "/media/karic-bridge-v8-136.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-137.webm",
+        "hevc": "/media/karic-bridge-v8-137.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-138.webm",
+        "hevc": "/media/karic-bridge-v8-138.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-139.webm",
+        "hevc": "/media/karic-bridge-v8-139.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-140.webm",
+        "hevc": "/media/karic-bridge-v8-140.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-141.webm",
+        "hevc": "/media/karic-bridge-v8-141.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-142.webm",
+        "hevc": "/media/karic-bridge-v8-142.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-143.webm",
+        "hevc": "/media/karic-bridge-v8-143.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-144.webm",
+        "hevc": "/media/karic-bridge-v8-144.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-145.webm",
+        "hevc": "/media/karic-bridge-v8-145.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-146.webm",
+        "hevc": "/media/karic-bridge-v8-146.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-147.webm",
+        "hevc": "/media/karic-bridge-v8-147.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-148.webm",
+        "hevc": "/media/karic-bridge-v8-148.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-149.webm",
+        "hevc": "/media/karic-bridge-v8-149.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-150.webm",
+        "hevc": "/media/karic-bridge-v8-150.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-151.webm",
+        "hevc": "/media/karic-bridge-v8-151.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-152.webm",
+        "hevc": "/media/karic-bridge-v8-152.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-153.webm",
+        "hevc": "/media/karic-bridge-v8-153.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-154.webm",
+        "hevc": "/media/karic-bridge-v8-154.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-155.webm",
+        "hevc": "/media/karic-bridge-v8-155.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-156.webm",
+        "hevc": "/media/karic-bridge-v8-156.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-157.webm",
+        "hevc": "/media/karic-bridge-v8-157.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-158.webm",
+        "hevc": "/media/karic-bridge-v8-158.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-159.webm",
+        "hevc": "/media/karic-bridge-v8-159.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-160.webm",
+        "hevc": "/media/karic-bridge-v8-160.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-161.webm",
+        "hevc": "/media/karic-bridge-v8-161.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-162.webm",
+        "hevc": "/media/karic-bridge-v8-162.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-163.webm",
+        "hevc": "/media/karic-bridge-v8-163.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-164.webm",
+        "hevc": "/media/karic-bridge-v8-164.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-165.webm",
+        "hevc": "/media/karic-bridge-v8-165.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-166.webm",
+        "hevc": "/media/karic-bridge-v8-166.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-167.webm",
+        "hevc": "/media/karic-bridge-v8-167.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-168.webm",
+        "hevc": "/media/karic-bridge-v8-168.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-169.webm",
+        "hevc": "/media/karic-bridge-v8-169.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-170.webm",
+        "hevc": "/media/karic-bridge-v8-170.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-171.webm",
+        "hevc": "/media/karic-bridge-v8-171.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-172.webm",
+        "hevc": "/media/karic-bridge-v8-172.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-173.webm",
+        "hevc": "/media/karic-bridge-v8-173.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-174.webm",
+        "hevc": "/media/karic-bridge-v8-174.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-175.webm",
+        "hevc": "/media/karic-bridge-v8-175.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-176.webm",
+        "hevc": "/media/karic-bridge-v8-176.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-177.webm",
+        "hevc": "/media/karic-bridge-v8-177.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-178.webm",
+        "hevc": "/media/karic-bridge-v8-178.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-179.webm",
+        "hevc": "/media/karic-bridge-v8-179.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-180.webm",
+        "hevc": "/media/karic-bridge-v8-180.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-181.webm",
+        "hevc": "/media/karic-bridge-v8-181.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-182.webm",
+        "hevc": "/media/karic-bridge-v8-182.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-183.webm",
+        "hevc": "/media/karic-bridge-v8-183.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-184.webm",
+        "hevc": "/media/karic-bridge-v8-184.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-185.webm",
+        "hevc": "/media/karic-bridge-v8-185.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-186.webm",
+        "hevc": "/media/karic-bridge-v8-186.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-187.webm",
+        "hevc": "/media/karic-bridge-v8-187.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-188.webm",
+        "hevc": "/media/karic-bridge-v8-188.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-189.webm",
+        "hevc": "/media/karic-bridge-v8-189.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-190.webm",
+        "hevc": "/media/karic-bridge-v8-190.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-191.webm",
+        "hevc": "/media/karic-bridge-v8-191.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-192.webm",
+        "hevc": "/media/karic-bridge-v8-192.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-193.webm",
+        "hevc": "/media/karic-bridge-v8-193.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-194.webm",
+        "hevc": "/media/karic-bridge-v8-194.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-195.webm",
+        "hevc": "/media/karic-bridge-v8-195.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-196.webm",
+        "hevc": "/media/karic-bridge-v8-196.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-197.webm",
+        "hevc": "/media/karic-bridge-v8-197.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-198.webm",
+        "hevc": "/media/karic-bridge-v8-198.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-199.webm",
+        "hevc": "/media/karic-bridge-v8-199.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-200.webm",
+        "hevc": "/media/karic-bridge-v8-200.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-201.webm",
+        "hevc": "/media/karic-bridge-v8-201.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-202.webm",
+        "hevc": "/media/karic-bridge-v8-202.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-203.webm",
+        "hevc": "/media/karic-bridge-v8-203.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v8-204.webm",
+        "hevc": "/media/karic-bridge-v8-204.mov"
       }
     ],
     "alternateIdle": {
