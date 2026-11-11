@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "person": {
+    "id": "bogoljub-karic",
+    "name": "Боголюб Карич",
+    "portrait": {
+      "src": "/media/portrait.jpg",
+      "alt": "Боголюб Карич"
+    }
+  },
+  "cases": [
+    {
+      "id": "case-01",
+      "question": "Как вы выбираете партнёров для бизнеса?",
+      "videoSrc": "/media/case-01.mp4",
+      "posterSrc": "/media/case-01-poster.png",
+      "presence": {
+        "sequenceSrc": "/media/karic-dialogue.webm",
+        "idleSrc": "/media/karic-idle.webm",
+        "replyStartsAt": 2.12,
+        "replyEndsAt": 8.88
+      },
+      "mediaKind": "reconstruction",
+      "answerText": "С новым партнёром я бы начал с небольшой общей задачи. В работе видно, как человек держит слово.",
+      "sourceIds": [
+        "about",
+        "nin"
+      ]
+    },
+    {
+      "id": "case-02",
+      "question": "Как вы принимаете решения, когда риск велик?",
+      "videoSrc": "/media/case-02.mp4",
+      "posterSrc": "/media/case-01-poster.png",
+      "mediaKind": "reconstruction",
+      "answerText": "Когда риск велик, я сначала смотрю, на кого и на какой опыт могу опереться. Потом выбираю шаг, за который готов отвечать.",
+      "sourceIds": [
+        "about",
+        "nin",
+        "values"
+      ],
+      "presence": {
+        "sequenceSrc": "/media/karic-dialogue.webm",
+        "idleSrc": "/media/karic-idle.webm",
+        "replyStartsAt": 9.44
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "about",
+      "title": "A Life in Seven Stories",
+      "url": "https://bogoljubkaric.com/en/about/"
+    },
+    {
+      "id": "nin",
+      "title": "Интервью NIN, 25 июня 2026",
+      "url": "https://www.nin.rs/english/news/116616/bogoljub-karic-for-nin-building-a-serbia-people-want-to-come-back-to"
+    },
+    {
+      "id": "future",
+      "title": "Looking Ahead: Family Enterprise",
+      "url": "https://bogoljubkaric.com/en/future/"
+    },
+    {
+      "id": "values",
+      "title": "My Values",
+      "url": "https://bogoljubkaric.com/en/values/"
+    }
+  ]
+}
