@@ -127,11 +127,11 @@
     }
   ],
   "avatar": {
-    "version": "v6",
+    "version": "v7",
     "poster": "/media/case-01-poster.png",
     "silent": {
-      "webm": "/media/karic-idle-v5.webm",
-      "hevc": "/media/karic-idle-v5.mov"
+      "webm": "/media/karic-idles-v7.webm",
+      "hevc": "/media/karic-idles-v7.mov"
     },
     "idle": {
       "start": 0,
@@ -310,6 +310,10 @@
         "webm": "/media/karic-motion-v5-41.webm",
         "hevc": "/media/karic-motion-v6-41.mov"
       }
-    ]
+    ],
+    "alternateIdle": {
+      "start": 8,
+      "end": 13.4
+    }
   }
 }
