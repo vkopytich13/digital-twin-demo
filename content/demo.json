@@ -25,33 +25,7 @@
       "sourceIds": [
         "about",
         "nin"
-      ],
-      "reply": {
-        "id": "case-01",
-        "sources": {
-          "webm": "/media/karic-answer-1-v4.webm",
-          "hevc": "/media/karic-answer-1-v4.mov"
-        },
-        "duration": 6.76,
-        "speech": {
-          "start": 0.2,
-          "end": 6.28
-        },
-        "bridgeStart": 8,
-        "bridgeCount": 85,
-        "captions": [
-          {
-            "start": 0.2,
-            "end": 3.76,
-            "text": "С новым партнёром я бы начал с небольшой общей задачи."
-          },
-          {
-            "start": 3.76,
-            "end": 6.28,
-            "text": "В работе видно, как человек держит слово."
-          }
-        ]
-      }
+      ]
     },
     {
       "id": "case-02",
@@ -68,39 +42,7 @@
       "presence": {
         "sequenceSrc": "/media/karic-dialogue-v3.webm",
         "idleSrc": "/media/karic-idle-v2.webm",
-        "replyStartsAt": 14.12,
-        "replyEndsAt": 23.6
-      },
-      "reply": {
-        "id": "case-02",
-        "sources": {
-          "webm": "/media/karic-answer-2-v4.webm",
-          "hevc": "/media/karic-answer-2-v4.mov"
-        },
-        "duration": 9.48,
-        "speech": {
-          "start": 0.2,
-          "end": 8.88
-        },
-        "bridgeStart": 25,
-        "bridgeCount": 119,
-        "captions": [
-          {
-            "start": 0.2,
-            "end": 2.76,
-            "text": "Когда риск велик, я сначала смотрю,"
-          },
-          {
-            "start": 2.76,
-            "end": 5.72,
-            "text": "на кого и на какой опыт могу опереться."
-          },
-          {
-            "start": 5.92,
-            "end": 8.88,
-            "text": "Потом выбираю шаг, за который готов отвечать."
-          }
-        ]
+        "replyStartsAt": 14.12
       }
     }
   ],
@@ -125,24 +67,5 @@
       "title": "My Values",
       "url": "https://bogoljubkaric.com/en/values/"
     }
-  ],
-  "avatar": {
-    "version": "v4",
-    "poster": "/media/case-01-poster.png",
-    "silent": {
-      "webm": "/media/karic-presence-v4.webm",
-      "hevc": "/media/karic-presence-v4.mov"
-    },
-    "idle": {
-      "start": 0,
-      "end": 6.8
-    },
-    "contact": {
-      "start": 6.8,
-      "end": 8
-    },
-    "fps": 25,
-    "bridgeFrames": 5,
-    "bridgeStride": 2
-  }
+  ]
 }
