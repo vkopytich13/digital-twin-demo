@@ -15,10 +15,10 @@
       "videoSrc": "/media/case-01.mp4",
       "posterSrc": "/media/case-01-poster.png",
       "presence": {
-        "sequenceSrc": "/media/karic-dialogue.webm",
-        "idleSrc": "/media/karic-idle.webm",
-        "replyStartsAt": 2.12,
-        "replyEndsAt": 8.88
+        "sequenceSrc": "/media/karic-dialogue-v2.webm",
+        "idleSrc": "/media/karic-idle-v2.webm",
+        "replyStartsAt": 6.8,
+        "replyEndsAt": 13.56
       },
       "mediaKind": "reconstruction",
       "answerText": "С новым партнёром я бы начал с небольшой общей задачи. В работе видно, как человек держит слово.",
@@ -40,9 +40,9 @@
         "values"
       ],
       "presence": {
-        "sequenceSrc": "/media/karic-dialogue.webm",
-        "idleSrc": "/media/karic-idle.webm",
-        "replyStartsAt": 9.44
+        "sequenceSrc": "/media/karic-dialogue-v2.webm",
+        "idleSrc": "/media/karic-idle-v2.webm",
+        "replyStartsAt": 14.12
       }
     }
   ],
