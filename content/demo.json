@@ -29,8 +29,8 @@
       "reply": {
         "id": "case-01",
         "sources": {
-          "webm": "/media/karic-answer-1-v5-matte-lead.webm",
-          "hevc": "/media/karic-answer-1-v5-matte-lead.mov"
+          "webm": "/media/karic-answer-1-v5-labial.webm",
+          "hevc": "/media/karic-answer-1-v5-labial.mov"
         },
         "duration": 6.76,
         "speech": {
@@ -41,6 +41,8 @@
         "bridgeCount": 85,
         "bridgeOverrides": {
           "57": 204,
+          "73": 209,
+          "75": 210,
           "83": 205,
           "111": 206,
           "117": 207
@@ -323,8 +325,8 @@
         "hevc": "/media/karic-bridge-v9-matte-37.mov"
       },
       {
-        "webm": "/media/karic-bridge-v9-matte-38.webm",
-        "hevc": "/media/karic-bridge-v9-matte-38.mov"
+        "webm": "/media/karic-bridge-case-1-labial-74.webm",
+        "hevc": "/media/karic-bridge-case-1-labial-74.mov"
       },
       {
         "webm": "/media/karic-bridge-v9-matte-39.webm",
@@ -1009,6 +1011,14 @@
       {
         "webm": "/media/karic-bridge-case-2-frame-95.webm",
         "hevc": "/media/karic-bridge-case-2-frame-95.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-case-1-labial-73.webm",
+        "hevc": "/media/karic-bridge-case-1-labial-73.mov"
+      },
+      {
+        "webm": "/media/karic-bridge-v9-matte-38.webm",
+        "hevc": "/media/karic-bridge-v9-matte-38.mov"
       }
     ],
     "alternateIdle": {
