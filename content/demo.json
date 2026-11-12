@@ -29,8 +29,8 @@
       "reply": {
         "id": "case-01",
         "sources": {
-          "webm": "/media/karic-answer-1-v5-matte.webm",
-          "hevc": "/media/karic-answer-1-v5-matte.mov"
+          "webm": "/media/karic-answer-1-v5-matte-r93.webm",
+          "hevc": "/media/karic-answer-1-v5-matte-r93.mov"
         },
         "duration": 6.76,
         "speech": {
@@ -84,8 +84,8 @@
       "reply": {
         "id": "case-02",
         "sources": {
-          "webm": "/media/karic-answer-2-v5-matte.webm",
-          "hevc": "/media/karic-answer-2-v5-matte.mov"
+          "webm": "/media/karic-answer-2-v5-matte-r93.webm",
+          "hevc": "/media/karic-answer-2-v5-matte-r93.mov"
         },
         "duration": 9.48,
         "speech": {
@@ -250,20 +250,20 @@
         "hevc": "/media/karic-bridge-v9-matte-21.mov"
       },
       {
-        "webm": "/media/karic-bridge-v9-matte-22.webm",
-        "hevc": "/media/karic-bridge-v9-matte-22.mov"
+        "webm": "/media/karic-bridge-v9-matte-22-r93.webm",
+        "hevc": "/media/karic-bridge-v9-matte-22-r93.mov"
       },
       {
-        "webm": "/media/karic-bridge-v9-matte-23.webm",
-        "hevc": "/media/karic-bridge-v9-matte-23.mov"
+        "webm": "/media/karic-bridge-v9-matte-23-r93.webm",
+        "hevc": "/media/karic-bridge-v9-matte-23-r93.mov"
       },
       {
-        "webm": "/media/karic-bridge-v9-matte-24.webm",
-        "hevc": "/media/karic-bridge-v9-matte-24.mov"
+        "webm": "/media/karic-bridge-v9-matte-24-r93.webm",
+        "hevc": "/media/karic-bridge-v9-matte-24-r93.mov"
       },
       {
-        "webm": "/media/karic-bridge-v9-matte-25.webm",
-        "hevc": "/media/karic-bridge-v9-matte-25.mov"
+        "webm": "/media/karic-bridge-v9-matte-25-r93.webm",
+        "hevc": "/media/karic-bridge-v9-matte-25-r93.mov"
       },
       {
         "webm": "/media/karic-bridge-v9-matte-26.webm",
@@ -286,16 +286,16 @@
         "hevc": "/media/karic-bridge-v9-matte-30.mov"
       },
       {
-        "webm": "/media/karic-bridge-v9-matte-31.webm",
-        "hevc": "/media/karic-bridge-v9-matte-31.mov"
+        "webm": "/media/karic-bridge-v9-matte-31-r93.webm",
+        "hevc": "/media/karic-bridge-v9-matte-31-r93.mov"
       },
       {
-        "webm": "/media/karic-bridge-v9-matte-32.webm",
-        "hevc": "/media/karic-bridge-v9-matte-32.mov"
+        "webm": "/media/karic-bridge-v9-matte-32-r93.webm",
+        "hevc": "/media/karic-bridge-v9-matte-32-r93.mov"
       },
       {
-        "webm": "/media/karic-bridge-v9-matte-33.webm",
-        "hevc": "/media/karic-bridge-v9-matte-33.mov"
+        "webm": "/media/karic-bridge-v9-matte-33-r93.webm",
+        "hevc": "/media/karic-bridge-v9-matte-33-r93.mov"
       },
       {
         "webm": "/media/karic-bridge-v9-matte-34.webm",
@@ -374,16 +374,16 @@
         "hevc": "/media/karic-bridge-v9-matte-52.mov"
       },
       {
-        "webm": "/media/karic-bridge-v9-matte-53.webm",
-        "hevc": "/media/karic-bridge-v9-matte-53.mov"
+        "webm": "/media/karic-bridge-v9-matte-53-r93.webm",
+        "hevc": "/media/karic-bridge-v9-matte-53-r93.mov"
       },
       {
-        "webm": "/media/karic-bridge-v9-matte-54.webm",
-        "hevc": "/media/karic-bridge-v9-matte-54.mov"
+        "webm": "/media/karic-bridge-v9-matte-54-r93.webm",
+        "hevc": "/media/karic-bridge-v9-matte-54-r93.mov"
       },
       {
-        "webm": "/media/karic-bridge-v9-matte-55.webm",
-        "hevc": "/media/karic-bridge-v9-matte-55.mov"
+        "webm": "/media/karic-bridge-v9-matte-55-r93.webm",
+        "hevc": "/media/karic-bridge-v9-matte-55-r93.mov"
       },
       {
         "webm": "/media/karic-bridge-v9-matte-56.webm",
@@ -822,16 +822,16 @@
         "hevc": "/media/karic-bridge-v9-matte-164.mov"
       },
       {
-        "webm": "/media/karic-bridge-v9-matte-165.webm",
-        "hevc": "/media/karic-bridge-v9-matte-165.mov"
+        "webm": "/media/karic-bridge-v9-matte-165-r93.webm",
+        "hevc": "/media/karic-bridge-v9-matte-165-r93.mov"
       },
       {
-        "webm": "/media/karic-bridge-v9-matte-166.webm",
-        "hevc": "/media/karic-bridge-v9-matte-166.mov"
+        "webm": "/media/karic-bridge-v9-matte-166-r93.webm",
+        "hevc": "/media/karic-bridge-v9-matte-166-r93.mov"
       },
       {
-        "webm": "/media/karic-bridge-v9-matte-167.webm",
-        "hevc": "/media/karic-bridge-v9-matte-167.mov"
+        "webm": "/media/karic-bridge-v9-matte-167-r93.webm",
+        "hevc": "/media/karic-bridge-v9-matte-167-r93.mov"
       },
       {
         "webm": "/media/karic-bridge-v9-matte-168.webm",
